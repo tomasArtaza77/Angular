@@ -11,7 +11,8 @@ export class EmpleadoComponent implements OnInit {
   nombre = "Tomas";
   apellido = "Artaza";
   edad = 22;
-  //empresa = "The Ripper";
+  empresa = "The Ripper";
+ 
 
   /*getEdad(){
     return this.edad;
